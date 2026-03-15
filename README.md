@@ -162,7 +162,3 @@ pip install moviepy pillow
 - ImageMagick（用于MoviePy文字渲染）
 
 ---
-
-## 作者
-
-褚浩宇 (学号: 2022212364)
